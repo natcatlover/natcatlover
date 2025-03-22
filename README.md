@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is Nat. I'm a wanderer in the world of blockchain and the internet, making a living as a net-contributor, 3D artist, and content creator. My work revolves around art, memes, and music, often with a Y2K and futuristic style. I also create content related to sim racing, as I have a deep passion for driving. And of course, I love cats!
 
 <!--
 **natcatlover/natcatlover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
